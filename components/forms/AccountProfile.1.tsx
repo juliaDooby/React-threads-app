@@ -12,7 +12,7 @@ import * as z from 'zod';
 import Image from 'next/image';
 import { ChangeEvent, useState } from 'react';
 import { isBase64Image } from '@/lib/utils';
-import { useUploadThing } from '@/lib/uploadthing';
+import { useUploadThing } from '@/lib/uploadThing';
 import { updateUser } from '@/lib/actions/user.actions';
 import { usePathname, useRouter } from 'next/navigation';
 
@@ -77,14 +77,20 @@ export const AccountProfile = ({ user, btnTitle }: Props) => {
         values.profile_photo = imgRes[0].fileUrl;
       }
     }
-    await updateUser(
-      values.username,
-      values.name,
-      values.bio,
-      values.profile_photo,
-      user.id,
-      pathname,
-    );
+    await updateUser({
+      userId: user.id,
+      username: values.username,
+      name: values.name,
+      bio: values.bio,
+      image: values.profile_photo,
+      path: pathname,
+    });
+
+    if (pathname === '/profile/edit') {
+      router.back();
+    } else {
+      router.push('/');
+    }
   };
 
   return (

@@ -1,4 +1,4 @@
-import AccountProfile from '@/components/forms/AccountProfile.1';
+import AccountProfile from '@/components/forms/AccountProfile';
 import { currentUser } from '@clerk/nextjs';
 
 async function Page() {
@@ -7,7 +7,7 @@ async function Page() {
   const userInfo = {};
 
   const userData = {
-    id: user?.id,
+    id: user.id,
     objectId: userInfo?._id,
     username: userInfo?.username || user?.username,
     name: userInfo?.name || user?.firstName || '',
