@@ -1,4 +1,4 @@
-import AccountProfile from '@/components/forms/AccountProfile';
+import AccountProfile from '@/components/forms/AccountProfile.1';
 import { currentUser } from '@clerk/nextjs';
 
 async function Page() {
