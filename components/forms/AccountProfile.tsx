@@ -2,7 +2,14 @@
 
 import { useForm } from 'react-hook-form';
 import { Button } from '@/components/ui/button';
-import { Form, FormControl, FormField, FormItem, FormLabel } from '@/components/ui/form';
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from '@/components/ui/form';
 
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
@@ -130,6 +137,7 @@ export const AccountProfile = ({ user, btnTitle }: Props) => {
                   onChange={(e) => handleImage(e, field.onChange)}
                 />
               </FormControl>
+              <FormMessage />
             </FormItem>
           )}
         />
@@ -143,6 +151,7 @@ export const AccountProfile = ({ user, btnTitle }: Props) => {
               <FormControl>
                 <Input type="text" className="account-form_input no-focus" {...field} />
               </FormControl>
+              <FormMessage />
             </FormItem>
           )}
         />
@@ -156,6 +165,7 @@ export const AccountProfile = ({ user, btnTitle }: Props) => {
               <FormControl>
                 <Input type="text" className="account-form_input no-focus" {...field} />
               </FormControl>
+              <FormMessage />
             </FormItem>
           )}
         />
@@ -169,6 +179,7 @@ export const AccountProfile = ({ user, btnTitle }: Props) => {
               <FormControl>
                 <Textarea rows={10} className="account-form_input no-focus" {...field} />
               </FormControl>
+              <FormMessage />
             </FormItem>
           )}
         />
