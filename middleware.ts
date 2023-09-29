@@ -8,3 +8,5 @@ export default authMiddleware({});
 export const config = {
   matcher: ['/((?!.*\\..*|_next).*)', '/', '/(api|trpc)(.*)'],
 };
+// import mongoose = require('mongoose');
+export let isConnected = false; //variable to check if mongoose is connected
