@@ -32,12 +32,12 @@ interface Params {
 }
 
 export async function updateUser({
-  username,
-  name,
-  bio,
-  image,
   userId,
+  bio,
+  name,
   path,
+  username,
+  image,
 }: Params): Promise<void> {
   try {
     connectToDB();
