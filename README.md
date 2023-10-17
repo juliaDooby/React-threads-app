@@ -1,4 +1,4 @@
-Threads, Next.js app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
+<!-- Threads, Next.js app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
 
 In this video, you'll:
 
@@ -15,4 +15,4 @@ Validate data with Zod
 Manage forms with react hook form
 Create reusable components
 Build a solid application architecture
-Deploy the application and more!
+Deploy the application and more! -->
