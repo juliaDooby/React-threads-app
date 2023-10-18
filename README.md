@@ -1,6 +1,6 @@
 ## Full Stack MERN Threads App
 
-<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_1.JPG" width="100%" height="20% paddding="2%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_2.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_3.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_4.JPG" width="100%" height="20%"></img></div>
