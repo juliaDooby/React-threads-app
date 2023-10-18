@@ -21,13 +21,20 @@
 
 ##### Here's features included in this project
 
-- Add to cart functionality
-- Shopping cart functionality
-- Product Filtering functionality
-- Product page
-- Cart and checkout page
-- Contact page
-- Awesome modern minimalist UI
+- Master Next.js 13.4 with Server Side Rendering
+- Learned MongoDB handling of complex schemas, multiple data population
+- Created beautiful layouts with TailwindCSS
+- Used Clerk for authentication
+- Handled file uploads with UploadThing
+- Explored Shadcn components
+- Listened to real-time events with webhooks
+- Understood middleware, API actions, and authorization
+- Explored & integrated new Next.js layout route groups
+- Validated data with Zod
+- Managed forms with react hook form
+- Created reusable components
+- Built a solid application architecture
+- Deployed the application (timetable tech. problems)
 
 ### Technologies Used:
 
@@ -57,25 +64,3 @@ npm i
 npm start
 
 ```
-
-
-
-
-<!-- Threads, Next.js app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
-
-In this video, you'll:
-
-Master Next.js 13.4 with Server Side Rendering
-Learn MongoDB handling of complex schemas, multiple data population
-Create beautiful layouts with TailwindCSS
-Use Clerk for authentication
-Handle file uploads with UploadThing
-Explore Shadcn components
-Listen to real-time events with webhooks
-Understand middleware, API actions, and authorization
-Explore & integrate new Next.js layout route groups
-Validate data with Zod
-Manage forms with react hook form
-Create reusable components
-Build a solid application architecture
-Deploy the application and more! -->
