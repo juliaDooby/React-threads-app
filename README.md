@@ -9,8 +9,8 @@
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_7.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_8.JPG" width="100%" height="20%"></img></div>
 
-https://github.com/juliaDooby/React-threads-app/blob/main/thread_1.JPG
-<!-- [demo](https://juliadooby.github.io/React-food-delivery-app/) -->
+[demo](vercel-deploy: fixing-dependencies-conflict, In the process of solving a problem of server error; Excuse me! - temporary technical problems; 
+the project is completely ready and runs on the local computer, the problem is being solved now, thank you.. for understanding ⌨ ◄╝) 
  ---
  
 ### Features:
