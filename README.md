@@ -21,7 +21,7 @@
 
 ##### Here's features included in this project
 
-- Master Next.js 13.4 with Server Side Rendering
+- Mastered Next.js 13.4 with Server Side Rendering
 - Learned MongoDB handling of complex schemas, multiple data population
 - Created beautiful layouts with TailwindCSS
 - Used Clerk for authentication
