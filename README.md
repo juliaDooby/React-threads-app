@@ -2,12 +2,12 @@
 
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_2.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_3.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_4.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_5.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_6.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_7.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/React-food-delivery-app/blob/main/thread_8.JPG.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_4.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_5.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_6.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_7.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_8.JPG" width="100%" height="20%"></img></div>
 
 https://github.com/juliaDooby/React-threads-app/blob/main/thread_1.JPG
 <!-- [demo](https://juliadooby.github.io/React-food-delivery-app/) -->
