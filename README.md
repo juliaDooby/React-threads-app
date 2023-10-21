@@ -1,34 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Full Stack MERN Threads App
 
-## Getting Started
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_4.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_5.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_6.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_7.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_8.JPG" width="40%" height="20%"></img></div>
 
-First, run the development server:
+#### ➤  demo-link is temporarily unavailable, Excuse me! - temporary technical problems ( the project is completely ready and runs on the local computer, the problem is being solved now .
+#### ➤  The server error with vercel-deploy: fixing-dependencies-conflict, In the process of solving the bug .
+#### ➤  Thank you... for understanding ፠ ⌨ ◄╝
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+ ---
+ 
+### Features:
+
+---
+
+##### Here's features included in this project
+
+- Mastered Next.js 13.4 with Server Side Rendering
+- Learned MongoDB handling of complex schemas, multiple data population
+- Created beautiful layouts with TailwindCSS
+- Used Clerk for authentication
+- Handled file uploads with UploadThing
+- Explored Shadcn components
+- Listened to real-time events with webhooks
+- Understood middleware, API actions, and authorization
+- Explored & integrated new Next.js layout route groups
+- Validated data with Zod
+- Managed forms with react hook form
+- Created reusable components
+- Built a solid application architecture
+- Deployed the application (timetable tech. problems)
+
+### Technologies Used:
+
+---
+
+1. React.js
+2. Typescript
+3. Nextjs
+4. Nextjs13-app-router
+5. Clerk
+6. Mongodb
+7. Mongoose
+ 
+### How to start?
+
+---
+
+##### To start the project along with me just download the start-up file and run available script
+
+```javascript
+// first install all necessary dependencies
+
+npm i
+
+// next run
+
+npm start
+
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
