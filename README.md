@@ -36,6 +36,8 @@
 - Built a solid application architecture
 - Deployed the application (timetable tech. problems)
 
+---
+
 ### Technologies Used:
 
 ---
