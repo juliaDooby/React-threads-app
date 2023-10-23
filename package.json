@@ -2,11 +2,14 @@
   "name": "threads",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://juliadooby.github.io/React-threads-app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.25.6",
@@ -30,6 +33,7 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
+    "gh-pages": "^6.0.0",
     "lucide-react": "^0.260.0",
     "micro": "^10.0.1",
     "mongoose": "^7.3.4",
@@ -46,5 +50,8 @@
     "typescript": "5.1.6",
     "uploadthing": "^5.2.0",
     "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "encoding": "^0.1.13"
   }
 }
