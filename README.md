@@ -9,9 +9,7 @@
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_7.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_8.JPG" width="40%" height="20%"></img></div>
 
-#### ➤  demo-link is temporarily unavailable, Excuse me! - temporary technical problems ( the project is completely ready and runs on the local computer, the problem is being solved now .
-#### ➤  The server error with vercel-deploy: fixing-dependencies-conflict, In the process of solving the bug .
-#### ➤  Thank you... for understanding ፠ ⌨ ◄╝
+#### ➤  I apologize - In the process of correcting the server error related to the vercel deployment, I will make corrections as soon as possible ⌨ ◄╝
 
  ---
  
