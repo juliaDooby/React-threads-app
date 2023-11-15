@@ -1,5 +1,7 @@
 ## Full Stack MERN Threads App
 
+![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
+
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_2.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-threads-app/blob/main/thread_3.JPG" width="100%" height="20%"></img></div>
