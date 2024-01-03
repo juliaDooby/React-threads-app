@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Next Router](https://img.shields.io/badge/Next_Router-CA4245?style=for-the-badge&logo=next-router&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-#0068f5ed?style=for-the-badge&logo=clerk&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-0068f5ed?style=for-the-badge&logo=clerk&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-CA4245?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-CA4245?style=for-the-badge&logo=mongoose&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
