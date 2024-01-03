@@ -2,7 +2,9 @@
 
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
-![React](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
+
 ![Typescript](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Next](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Next13-app-router](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
